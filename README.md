@@ -11,7 +11,7 @@ A simple Flutter application to display weather information using an API. This a
 
 ## Screenshots
 
-![image](https://github.com/Didar1313/flutter_weather_app/assets/73778140/72ef0cf7-afb6-4c33-93ab-0ba3290610c1)
+![image](https://github.com/Didar1313/flutter_weather_app/assets/73778140/294d2305-f370-4cb6-ac2c-b87a62c55e7f)
 
 
 
