@@ -50,7 +50,7 @@ Scroll down to see the weather forecast for the next 7 days.
 
 This app uses the Weather API to fetch weather data.
 
-Contact
+## Contact :
 
 GitHub: Didar1313
 
