@@ -1,16 +1,57 @@
-# weather_app
+# Flutter Weather App
 
-A new Flutter project.
+A simple Flutter application to display weather information using an API. This app fetches current weather, hourly forecasts, and a 7-day weather forecast for a given location.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays current weather conditions
+- Provides hourly weather forecasts
+- Shows a 7-day weather forecast
+- Search for weather by city, zip code, or coordinates
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/Didar1313/flutter_weather_app/assets/73778140/72ef0cf7-afb6-4c33-93ab-0ba3290610c1)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Didar1313/flutter_weather_app.git
+
+
+Usage
+
+1.Search Location:
+
+   a. Click on the search icon in the app bar.
+   
+   b. Enter the city name, zip code, or coordinates.
+   
+   c. Click "OK" to fetch the weather data for the entered location.
+   
+   d. Click myLocation button for current location weather condition
+   
+2.View Current Weather:
+
+The home screen displays the current weather conditions for the selected location.
+
+3.View Hourly Forecast:
+
+Scroll horizontally to see the hourly weather forecast.
+
+4.View 7-day Forecast:
+
+Scroll down to see the weather forecast for the next 7 days.
+
+5.API Used
+
+This app uses the Weather API to fetch weather data.
+
+Contact
+
+GitHub: Didar1313
+
+Email: didarbhuiyan1313@gmail.com
